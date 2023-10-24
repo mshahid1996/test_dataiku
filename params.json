@@ -26,7 +26,20 @@
     "gitCommitMode": "AUTO",
     "disableAutomaticTriggers": false,
     "integrations": {
-      "integrations": []
+      "integrations": [
+        {
+          "active": true,
+          "hook": {
+            "type": "github",
+            "configuration": {
+              "useProxy": true,
+              "username": "mshahid1996",
+              "accessToken": "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",
+              "repository": "https://github.com/mshahid1996/test_dataiku.git"
+            }
+          }
+        }
+      ]
     },
     "flowBuildSettings": {
       "mergeSparkPipelines": false,
@@ -190,6 +203,14 @@
     "displayedState": {
       "checks": []
     }
+  },
+  "versionTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "ds5387391@gmail.com"
+    },
+    "lastModifiedOn": 1698173864869,
+    "extendedProperties": {}
   },
   "creationTag": {
     "versionNumber": 0,
