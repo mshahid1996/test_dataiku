@@ -11,7 +11,25 @@
   "hasSetupSection": false,
   "owner": "ds5387391@gmail.com",
   "permissionsVersion": "V2",
-  "permissions": [],
+  "permissions": [
+    {
+      "group": "space_administrators",
+      "admin": true,
+      "readProjectContent": false,
+      "writeProjectContent": false,
+      "exportDatasetsData": false,
+      "readDashboards": false,
+      "writeDashboards": false,
+      "moderateDashboards": false,
+      "publishToDataCollections": false,
+      "shareToWorkspaces": false,
+      "runScenarios": false,
+      "manageDashboardAuthorizations": false,
+      "manageExposedElements": false,
+      "manageAdditionalDashboardUsers": false,
+      "executeApp": false
+    }
+  ],
   "additionalDashboardUsers": {
     "users": []
   },
@@ -205,11 +223,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 0,
+    "versionNumber": 1,
     "lastModifiedBy": {
       "login": "ds5387391@gmail.com"
     },
-    "lastModifiedOn": 1698173864869,
+    "lastModifiedOn": 1698179558155,
     "extendedProperties": {}
   },
   "creationTag": {
