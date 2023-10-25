@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "execSQLLike": false,
+    "localDatasets": [],
+    "projectPrivileges": {
+      "admin": true,
+      "readProjectContent": true,
+      "writeProjectContent": false,
+      "exportDatasetsData": true,
+      "readDashboards": true,
+      "writeDashboards": false,
+      "moderateDashboards": false,
+      "publishToDataCollections": false,
+      "shareToWorkspaces": true,
+      "runScenarios": false,
+      "manageDashboardAuthorizations": false,
+      "manageExposedElements": false,
+      "manageAdditionalDashboardUsers": false,
+      "executeApp": false
+    },
+    "id": "1brmHTuIo8DQJUoo",
+    "key": "z936HUXq8qjDS5y4iIII3phqQlDxqfaT",
+    "label": "for connect jenkins",
+    "createdOn": 1698219422940
+  }
+]
