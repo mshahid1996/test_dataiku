@@ -37,11 +37,11 @@
     "dimensions": []
   },
   "versionTag": {
-    "versionNumber": 1,
+    "versionNumber": 2,
     "lastModifiedBy": {
       "login": "ds5387391@gmail.com"
     },
-    "lastModifiedOn": 1698173286481,
+    "lastModifiedOn": 1698216684934,
     "extendedProperties": {}
   },
   "creationTag": {
@@ -71,9 +71,9 @@
   "schema": {
     "columns": [
       {"name":"col_0","type":"string"},
-      {"name":"col_1","type":"string"}
+      {"name":"col_1","type":"string","meaning":"DoubleMeaning"}
     ],
-    "userModified": false
+    "userModified": true
   },
   "dkuProperties": [],
   "metrics": {
