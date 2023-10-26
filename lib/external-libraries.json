@@ -1,0 +1,18 @@
+{
+  "gitReferences": {
+    "test_dataiku/tree/dev": {
+      "remote": "git@github.com:mshahid1996/test_dataiku.git",
+      "checkout": "dev",
+      "remotePath": "",
+      "isDirty": false
+    }
+  },
+  "pythonPath": [
+    "python",
+    "test_dataiku/tree/dev"
+  ],
+  "rsrcPath": [
+    "R"
+  ],
+  "importLibrariesFromProjects": []
+}
