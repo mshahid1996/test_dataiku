@@ -4,10 +4,6 @@
       "remote": "git@github.com:mshahid1996/test_dataiku.git",
       "checkout": "dev",
       "remotePath": "",
-      "lastHash": "8c83b806a96c6708fed0f8aa5bcfda6d31fe22c3",
-      "conflictingFiles": [],
-      "resolvedFiles": [],
-      "faultyHash": "",
       "isDirty": false
     }
   },
