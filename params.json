@@ -43,7 +43,7 @@
     },
     "gitCommitMode": "AUTO",
     "useRemoteGit": true,
-    "disableAutomaticTriggers": false,
+    "disableAutomaticTriggers": true,
     "integrations": {
       "integrations": [
         {
@@ -224,11 +224,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 2,
+    "versionNumber": 3,
     "lastModifiedBy": {
       "login": "ds5387391@gmail.com"
     },
-    "lastModifiedOn": 1698211746977,
+    "lastModifiedOn": 1698313224100,
     "extendedProperties": {}
   },
   "creationTag": {
